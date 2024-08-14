@@ -1,6 +1,7 @@
 # Subhan Ali , Android Developer at Norsk Tipping AS
-- 👋 Hi, I’m @subhanalimangi
+- 👋 Hi, I’m Subhan Ali Mangi
 - 👀 I’m interested in Android Development
+  
 ## 🛠️ Technologies & Tools
 
 - **Languages**: Kotlin, Java
@@ -11,7 +12,7 @@
 - **Testing**: JUnit, Espresso, Mockito
 - **Version Control**: Git, GitHub
 - **CI/CD**: GitHub Actions, Fastlane
-- **Others**: Firebase, Google Play Services, RESTful APIs
+- **Others**: Firebase, Google Play Services, RESTful APIs, FASTAPI
 
 <!---
 subhanalimangi/subhanalimangi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
